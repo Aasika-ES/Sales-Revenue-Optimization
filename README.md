@@ -27,7 +27,6 @@
 
 ## Project - India based Hardware company Sales Insights - Data Analysis performed on Tableau & SQL
   
-### [Tableau Dashboard Link](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) <a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="20"/> </a>  🔗
 
 ### Problem Statements
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
